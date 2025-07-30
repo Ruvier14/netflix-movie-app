@@ -177,13 +177,3 @@ NetflixAppProject/
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Netflix for UI inspiration
-- Django REST Framework for robust API development
-- React.js for powerful frontend development
-
----
-
-**Happy coding! 🎬✨** 
