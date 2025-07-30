@@ -176,6 +176,9 @@ NetflixAppProject/
 4. Push to branch: `git push origin feature-name`
 5. Submit a pull request
 
+## Video Demo 
+[Link here](https://youtu.be/GsHcDy5Zb4I)
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
