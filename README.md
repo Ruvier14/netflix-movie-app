@@ -37,6 +37,8 @@ A full-stack movie streaming application built with **Django REST Framework** (B
 
 ### Backend Setup
 
+**GIT CLONE THE REPOSITORY IN YOUR IDE FIRST*
+
 1. **Navigate to backend directory:**
    ```bash
    cd movieplatform
