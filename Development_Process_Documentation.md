@@ -16,7 +16,6 @@ This document outlines the complete development journey, bugs encountered, solut
 
 ### Phase 1: Initial Setup & Backend Configuration
 
-**Duration**: Week 1  
 **Focus**: Django setup, API configuration, basic CRUD operations
 
 **Key Achievements**:
@@ -32,7 +31,6 @@ This document outlines the complete development journey, bugs encountered, solut
 
 ### Phase 2: File Upload & Video Handling
 
-**Duration**: Week 2  
 **Focus**: Video file upload functionality, database integration
 
 **Key Achievements**:
@@ -48,7 +46,6 @@ This document outlines the complete development journey, bugs encountered, solut
 
 ### Phase 3: Video Playback Issues
 
-**Duration**: Week 3  
 **Focus**: Video player implementation, URL construction
 
 **Key Achievements**:
@@ -63,8 +60,6 @@ This document outlines the complete development journey, bugs encountered, solut
 - Empty video file paths in database
 
 ### Phase 4: UI/UX Improvements
-
-**Duration**: Week 4  
 **Focus**: User interface refinement, bug fixes
 
 **Key Achievements**:
