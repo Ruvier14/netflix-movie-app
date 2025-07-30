@@ -2,7 +2,7 @@
 # Licensed under the MIT License
 # 🎬 Netflix-like Movie Application
 
-A full-stack movie streaming application built with **Django REST Framework** (Backend) and **React.js** (Frontend), featuring a Netflix-like UI with video upload and playback capabilities.
+A full-stack movie streaming application built with **Django REST Framework** (Backend) and **React.js** (Frontend), featuring a wanna be (close but far) Netflix-like UI with video upload and playback capabilities.
 
 ## ✨ Features
 
