@@ -29,7 +29,7 @@ A full-stack movie streaming application built with **Django REST Framework** (B
 - **CSS3** - Styling with Netflix-inspired design
 
 ## 🚀 Quick Start
-**GIT CLONE THE PROJECT REPOSITORY IN YOUR CHOICE OF IDE FIRST*
+**GIT CLONE THE PROJECT REPOSITORY*
 ### Prerequisites
 - Python 3.8+
 - Node.js 14+
